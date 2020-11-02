@@ -1,0 +1,21 @@
+{
+  "name": "jadili-theme",
+  "version": "1.0.0",
+  "description": "\"# Jadilit-Africa-Shopify-Theme\"",
+  "main": "config.yml",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "theme-lint ./dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jgobeille/Jadilit-Africa-Shopify-Theme.git"
+  },
+  "author": "Jamie Gobeille",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jgobeille/Jadilit-Africa-Shopify-Theme/issues"
+  },
+  "homepage": "https://github.com/Jgobeille/Jadilit-Africa-Shopify-Theme#readme",
+  "devDependencies": {}
+}
